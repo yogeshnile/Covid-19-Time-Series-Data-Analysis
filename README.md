@@ -1,6 +1,20 @@
 # Covid-19-Time-Series-Data-Analysis
 In this repo created a Covid-19 Time Series Data Analysis on python
 
+# Dependentias
+```python
+import pandas as pd
+import numpy as np
+import plotly
+import plotly.graph_objects as go
+import plotly.express as px
+import cufflinks as cf
+import plotly.offline as pyo
+from plotly.offline import init_notebook_mode,plot,iplot
+import folium
+
+```
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
