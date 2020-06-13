@@ -1,7 +1,7 @@
-# Covid-19-Time-Series-Data-Analysis
+# Covid-19-Time-Series-Data-Analysis :notebook:
 In this repo created a Covid-19 Time Series Data Analysis on python
 
-# Dependentias
+# Dependentias :warning:
 ```python
 import pandas as pd
 import numpy as np
@@ -15,15 +15,20 @@ import folium
 
 ```
 
-## ScreenShot :camera:
+## ScreenShot :camera_flash:
 ![](https://github.com/yogeshnile/Covid-19-Time-Series-Data-Analysis/blob/master/Image/1.png)
 
-## Contributing
+![](https://github.com/yogeshnile/Covid-19-Time-Series-Data-Analysis/blob/master/Image/2.png)
+![](https://github.com/yogeshnile/Covid-19-Time-Series-Data-Analysis/blob/master/Image/3.png)
+![](https://github.com/yogeshnile/Covid-19-Time-Series-Data-Analysis/blob/master/Image/4.png)
+![](https://github.com/yogeshnile/Covid-19-Time-Series-Data-Analysis/blob/master/Image/5.png)
+
+## Contributing :man_technologist:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## Follow on a Social Media
+## Follow on a Social Media :busts_in_silhouette:
 - [LinkedIn](https://bit.ly/2Ky3ho6)
 - [Instagram](https://bit.ly/3b9Qeo4)
 - [Instagram](https://bit.ly/32SXHV0) Personal
