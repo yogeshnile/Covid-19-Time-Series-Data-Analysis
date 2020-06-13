@@ -15,6 +15,8 @@ import folium
 
 ```
 
+## ScreenShot :camera:
+![](https://github.com/yogeshnile/Covid-19-Time-Series-Data-Analysis/blob/master/Image/1.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
